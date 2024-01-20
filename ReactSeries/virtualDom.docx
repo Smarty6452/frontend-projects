@@ -1,0 +1,16 @@
+createRoot()
+
+BTS - create a dom like structure 
+
+then compare actual dom vs virtual dom adn update only specific elements which update on ui  
+
+dom whole page reload / repaint 
+no need of instantaneos update 
+
+ui updation technique
+
+Algorith - React Fiber Which uses virtual Dom
+
+reconcillation 
+the algorithm react uses to diff one tree with another to which part need to be changed is called concillation
+
